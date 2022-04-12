@@ -1,3 +1,3 @@
 # Go_Aws_Lambda
 
-SimpleAWS Lambda function Using GOLang
+Simple AWS Lambda function Using GOLang
